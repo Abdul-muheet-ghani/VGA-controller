@@ -1,13 +1,3 @@
-##!/bin/bash
-## This is an argumentative Bash script
-
-#if [ "$1" = "hello" ]; then
-#    echo "You said hello!"
-#elif [ "$1" = "goodbye" ]; then
-#    echo "You said goodbye!"
-#else
-#    echo "I don't understand what you said."
-#fi
 
 if [ "$1" = "clean" ]; then
     rm -rf obj*
