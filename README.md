@@ -30,4 +30,4 @@ To learn about the detailed procedure for running simulations or deploying the d
 - For **VGA_Sim**, check the [README file](https://github.com/Ali-975/VGA-controller/blob/duplicate/VGA_Sim/README.md) in the simulation folder for instructions.
 - For **VGA_Display**, check the [README file](https://github.com/Ali-975/VGA-controller/blob/duplicate/VGA_Display/README.md) in the display folder for FPGA setup and hardware deployment instructions.
 
-Each folder's README provides step-by-step guidance on running simulations or implementing the design on the FPGA.
+Each folder's README provides step-by-step instructions for running simulations or implementing the design on the FPGA. However, ensure you have the necessary [dependencies](https://github.com/Ali-975/VGA-controller/blob/duplicate/Dependencies.md) installed beforehand.
