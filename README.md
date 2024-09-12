@@ -12,7 +12,7 @@ This project demonstrates how to use the **Tang Nano 9K FPGA** to display output
 To get started, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/YourRepositoryName/YourProjectName.git
+git clone https://github.com/Abdul-muheet-ghani/VGA-controller
 ```
 
 ## Folders Description
@@ -27,14 +27,7 @@ This folder includes all the necessary files to implement the design on the **Ta
 
 To learn about the detailed procedure for running simulations or deploying the design to hardware, navigate to the respective folder's README file:
 
-- For **VGA_Sim**, check the [README file](www.xyz.com) in the simulation folder for instructions.
-- For **VGA_Display**, check the [README file](www.xyz.com) in the display folder for FPGA setup and hardware deployment instructions.
+- For **VGA_Sim**, check the [README file](https://github.com/Ali-975/VGA-controller/blob/duplicate/VGA_Sim/README.md) in the simulation folder for instructions.
+- For **VGA_Display**, check the [README file](https://github.com/Ali-975/VGA-controller/blob/duplicate/VGA_Display/README.md) in the display folder for FPGA setup and hardware deployment instructions.
 
 Each folder's README provides step-by-step guidance on running simulations or implementing the design on the FPGA.
-
----
-
-Feel free to explore both folders for more insights and details on how to bring the VGA display from the FPGA to your LCD screen.
-```
-
-This `.md` file explains how to get started with the project, the role of each folder, and directs the user to the respective readme files for detailed instructions. You can replace `www.xyz.com` with the actual links when available.
