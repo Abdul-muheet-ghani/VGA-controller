@@ -1,0 +1,29 @@
+{
+ "Device" : "GW1NR-9C",
+ "Files" : [
+  {
+   "Path" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/VGA_Display/src/simple_pattern.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/VGA_Display/src/gowin_clkdiv/gowin_clkdiv.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/VGA_Display/src/gowin_rpll/gowin_rpll.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/VGA_Display/src/vga_top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/VGA_Display/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/VGA_Display/src/vga_top.v",
+  "InstLine" : 2,
+  "InstName" : "top_display",
+  "ModuleFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/VGA_Display/src/vga_top.v",
+  "ModuleLine" : 2,
+  "ModuleName" : "top_display",
+  "SubInsts" : [
+   {
+    "InstFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/VGA_Display/src/vga_top.v",
+    "InstLine" : 36,
+    "InstName" : "u_Gowin_rPLL",
+    "ModuleFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/VGA_Display/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/VGA_Display/src/vga_top.v",
+    "InstLine" : 43,
+    "InstName" : "u_Gowin_CLKDIV",
+    "ModuleFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/VGA_Display/src/gowin_clkdiv/gowin_clkdiv.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_CLKDIV"
+   },
+   {
+    "InstFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/VGA_Display/src/vga_top.v",
+    "InstLine" : 51,
+    "InstName" : "top",
+    "ModuleFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/VGA_Display/src/simple_pattern.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "Simple_pattern"
+   }
+  ]
+ }
+]
