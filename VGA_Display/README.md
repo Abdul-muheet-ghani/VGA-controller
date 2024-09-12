@@ -1,0 +1,1 @@
+# Gowin IDE Setup for VGA Display Project
