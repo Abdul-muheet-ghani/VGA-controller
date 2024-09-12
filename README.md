@@ -1,1 +1,40 @@
 # VGA-controller
+
+This project demonstrates how to use the **Tang Nano 9K FPGA** to display output on an LCD via VGA using Verilog and SystemVerilog. The project contains two key folders: one for simulations and another for hardware implementation.
+
+## Project Structure
+
+- **VGA_Sim**: Contains SystemVerilog files for simulation purposes. This folder is used for testing and verifying the design without the involvement of hardware (FPGA).
+- **VGA_Display**: Contains all necessary files to implement the design on hardware. This allows you to interface the FPGA with an LCD via VGA cable and observe the output.
+
+## Clone the Project
+
+To get started, clone the repository using the following command:
+
+```bash
+git clone https://github.com/YourRepositoryName/YourProjectName.git
+```
+
+## Folders Description
+
+### 1. **VGA_Sim**:
+This folder contains all the simulation files written in SystemVerilog. The simulations are meant to test the behavior of the design without the need for the FPGA. You can use a simulation tool such as ModelSim or Vivado for this purpose. These files help you verify the VGA signal timings and display patterns before deploying to hardware.
+
+### 2. **VGA_Display**:
+This folder includes all the necessary files to implement the design on the **Tang Nano 9K FPGA**. By using the provided Verilog/SystemVerilog code, the VGA signals will be routed to the LCD via a VGA cable, allowing you to display the desired patterns.
+
+## How to Proceed
+
+To learn about the detailed procedure for running simulations or deploying the design to hardware, navigate to the respective folder's README file:
+
+- For **VGA_Sim**, check the [README file](www.xyz.com) in the simulation folder for instructions.
+- For **VGA_Display**, check the [README file](www.xyz.com) in the display folder for FPGA setup and hardware deployment instructions.
+
+Each folder's README provides step-by-step guidance on running simulations or implementing the design on the FPGA.
+
+---
+
+Feel free to explore both folders for more insights and details on how to bring the VGA display from the FPGA to your LCD screen.
+```
+
+This `.md` file explains how to get started with the project, the role of each folder, and directs the user to the respective readme files for detailed instructions. You can replace `www.xyz.com` with the actual links when available.
