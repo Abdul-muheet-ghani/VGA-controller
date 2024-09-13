@@ -6,6 +6,7 @@ This document provides step-by-step instructions for setting up and configuring 
 
 - Open Gowin IDE.
 - Create a new project and name it `VGA_Display`.
+
  ![Alt text](img/create_new_project.png "Create new project")
  ![Alt text](img/create_new_project_1.png "fpga project")
 
