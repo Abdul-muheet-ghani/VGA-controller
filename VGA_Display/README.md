@@ -78,3 +78,5 @@ This document provides step-by-step instructions for setting up and configuring 
 - Select the **"Run Program Only"** option to load the bitstream onto the FPGA.
 
  ![Alt text](img/lcd_output.png "Pin mapping")
+
+ ![Alt text](img/moving_block.gif "Pin mapping")
