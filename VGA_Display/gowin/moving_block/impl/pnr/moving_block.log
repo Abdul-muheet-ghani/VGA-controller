@@ -1,0 +1,29 @@
+Reading netlist file: "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/impl/gwsynthesis/moving_block.vg"
+Parsing netlist file "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/impl/gwsynthesis/moving_block.vg" completed
+Processing netlist completed
+Reading constraint file: "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/src/moving_block.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/impl/pnr/moving_block.power.html" completed
+Generate file "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/impl/pnr/moving_block.pin.html" completed
+Generate file "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/impl/pnr/moving_block.rpt.html" completed
+Generate file "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/impl/pnr/moving_block.rpt.txt" completed
+Generate file "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/impl/pnr/moving_block.tr.html" completed
+Tue Sep 24 12:16:03 2024
+
