@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/src/top.v",
+  "InstLine" : 3,
+  "InstName" : "top",
+  "ModuleFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/src/top.v",
+  "ModuleLine" : 3,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/src/top.v",
+    "InstLine" : 34,
+    "InstName" : "u_Gowin_rPLL",
+    "ModuleFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/src/top.v",
+    "InstLine" : 40,
+    "InstName" : "u_Gowin_CLKDIV",
+    "ModuleFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/src/gowin_clkdiv/gowin_clkdiv.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_CLKDIV"
+   },
+   {
+    "InstFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/src/top.v",
+    "InstLine" : 48,
+    "InstName" : "u_block",
+    "ModuleFile" : "/home/muddassir/Gowin/IDE/bin/FPGA_Projects/moving_block/src/moving_block.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "block"
+   }
+  ]
+ }
+]
