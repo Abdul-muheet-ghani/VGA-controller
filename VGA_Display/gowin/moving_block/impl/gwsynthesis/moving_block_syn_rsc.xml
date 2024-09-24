@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Register="42" Alu="36" Lut="32" T_Register="82(42)" T_Alu="79(36)" T_Lut="63(32)">
+ <SubModule name="u_Gowin_rPLL"/>
+ <SubModule name="u_Gowin_CLKDIV"/>
+ <SubModule name="u_block" Register="40" Alu="43" Lut="31" T_Register="40(40)" T_Alu="43(43)" T_Lut="31(31)"/>
+</Module>
