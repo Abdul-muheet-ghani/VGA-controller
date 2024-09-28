@@ -1,0 +1,30 @@
+Reading netlist file: "/home/fayz/Documents/hdmi_/impl/gwsynthesis/hdmi_.vg"
+Parsing netlist file "/home/fayz/Documents/hdmi_/impl/gwsynthesis/hdmi_.vg" completed
+Processing netlist completed
+Reading constraint file: "/home/fayz/Documents/hdmi_/src/hdmi_.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+WARN  (TA1118) : the clock "clk_div/clkdiv_inst/CLKOUT.default_gen_clk"'s frequency does not match serial_clk/rpll_inst's param "FCLKIN = "25""
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "/home/fayz/Documents/hdmi_/impl/pnr/hdmi_.power.html" completed
+Generate file "/home/fayz/Documents/hdmi_/impl/pnr/hdmi_.pin.html" completed
+Generate file "/home/fayz/Documents/hdmi_/impl/pnr/hdmi_.rpt.html" completed
+Generate file "/home/fayz/Documents/hdmi_/impl/pnr/hdmi_.rpt.txt" completed
+Generate file "/home/fayz/Documents/hdmi_/impl/pnr/hdmi_.tr.html" completed
+Sat Sep 28 15:52:26 2024
+
