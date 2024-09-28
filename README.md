@@ -29,5 +29,6 @@ To learn about the detailed procedure for running simulations or deploying the d
 
 - For **VGA_Sim**, check the [README file](https://github.com/Ali-975/VGA-controller/blob/duplicate/VGA_Sim/README.md) in the simulation folder for instructions.
 - For **VGA_Display**, check the [README file](https://github.com/Ali-975/VGA-controller/blob/duplicate/VGA_Display/README.md) in the display folder for FPGA setup and hardware deployment instructions.
+-  For **HDMI_Display**, check the [folder](https://github.com/Fayz2110/VGA-controller/tree/main/VGA_Display/gowin/HDMI_Display) , you can also refer to its [README file](https://github.com/Fayz2110/VGA-controller/blob/main/VGA_Display/gowin/HDMI_Display/HDMI.md)
 
 Each folder's README provides step-by-step instructions for running simulations or implementing the design on the FPGA. However, ensure you have the necessary [dependencies](https://github.com/Ali-975/VGA-controller/blob/duplicate/Dependencies.md) installed beforehand.

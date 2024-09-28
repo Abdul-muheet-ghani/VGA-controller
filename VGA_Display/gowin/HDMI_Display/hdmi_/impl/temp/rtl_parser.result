@@ -1,0 +1,62 @@
+[
+ {
+  "InstFile" : "/home/fayz/Documents/hdmi_/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "/home/fayz/Documents/hdmi_/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "/home/fayz/Documents/hdmi_/src/top.v",
+    "InstLine" : 40,
+    "InstName" : "hdmi_top",
+    "ModuleFile" : "/home/fayz/Documents/hdmi_/src/dvi_tx/dvi_tx.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "DVI_TX_Top"
+   },
+   {
+    "InstFile" : "/home/fayz/Documents/hdmi_/src/top.v",
+    "InstLine" : 12,
+    "InstName" : "pll",
+    "ModuleFile" : "/home/fayz/Documents/hdmi_/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "/home/fayz/Documents/hdmi_/src/top.v",
+    "InstLine" : 17,
+    "InstName" : "clk_div",
+    "ModuleFile" : "/home/fayz/Documents/hdmi_/src/gowin_clkdiv/gowin_clkdiv.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_CLKDIV"
+   },
+   {
+    "InstFile" : "/home/fayz/Documents/hdmi_/src/top.v",
+    "InstLine" : 24,
+    "InstName" : "vga_top",
+    "ModuleFile" : "/home/fayz/Documents/hdmi_/src/vga_top.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "top_display",
+    "SubInsts" : [
+     {
+      "InstFile" : "/home/fayz/Documents/hdmi_/src/vga_top.v",
+      "InstLine" : 38,
+      "InstName" : "top",
+      "ModuleFile" : "/home/fayz/Documents/hdmi_/src/simple_pattern.v",
+      "ModuleLine" : 3,
+      "ModuleName" : "Simple_pattern"
+     }
+    ]
+   },
+   {
+    "InstFile" : "/home/fayz/Documents/hdmi_/src/top.v",
+    "InstLine" : 35,
+    "InstName" : "serial_clk",
+    "ModuleFile" : "/home/fayz/Documents/hdmi_/src/gowin_rpll_serial/gowin_rpll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_rPLL_serial"
+   }
+  ]
+ }
+]
